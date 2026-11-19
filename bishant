@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title> 
+</head>
+
+<body>
+
+    <h1>Welcome to My Portfolio</h1>
+<hr>
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Bishant Nepal.
+        I am a student who is interested in technology,
+        computers, and programming.
+    </p>
+
+    <h2>My Education</h2>
+    <p>
+        I am currently studying and learning new skills
+        to build my future.
+    </p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Computer Skills</li>
+        <li>Communication</li>
+        <li>Problem Solving</li>
+    </ul>
+
+    <h2>My Projects</h2>
+    <ol>
+        <li>Personal Portfolio Website</li>
+        <li>Calculator</li>
+        <li>Simple Web Pages</li>
+    </ol>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Playing Games</li>
+        <li>Learning Technology</li>
+        <li>Exploring Computers</li>
+        <li>Listening to Music</li>
+    </ul>
+
+    <h2>Contact Me</h2>
+    <p>Email: your-email@example.com</p>
+    <p>Address: Nepal</p>
+
+    <hr>
+
+    <footer>
+        <p>Copyright &copy; 2026 Bishant Nepal</p>
+    </footer>
+     
+</html>
